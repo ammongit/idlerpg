@@ -1,2 +1,17 @@
 # Secret
 .irpg.conf
+
+# Database
+irpg.db
+.dbbackup
+
+# Runtime
+.irpg.pid
+
+# Logging
+debug.txt
+
+# Misc
+.*.swp
+*.bak
+*~
