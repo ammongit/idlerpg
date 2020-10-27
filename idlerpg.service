@@ -7,7 +7,7 @@ After=network-online.target network.target
 Type=forking
 WorkDir=/path/to/idlerpg
 User=idlerpg
-ExecStart=/usr/bin/perl bot.pl
+ExecStart=/usr/bin/perl --verbose --debug bot.pl
 Restart=always
 RestartSec=120
 
