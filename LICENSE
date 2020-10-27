@@ -1,0 +1,16 @@
+irpg bot v3.1.2 by jotun, jotun@idlerpg.net, et al. See http://idlerpg.net/
+
+Some code within this file was written by authors other than myself. As such,
+distributing this code or distributing modified versions of this code is
+strictly prohibited without written authorization from the authors. Contact
+jotun@idlerpg.net. Please note that this may change (at any time, no less) if
+authorization for distribution is given by patch submitters.
+
+As a side note, patches submitted for this project are automatically taken to
+be freely distributable and modifiable for any use, public or private, though
+I make no claim to ownership; original copyrights will be retained.. except as
+I've just stated.
+
+Please mail bugs, etc. to me. Patches are welcome to fix bugs or clean up
+the code, but please do not use a radically different coding style. Thanks
+to everyone that's contributed!
