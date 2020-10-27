@@ -503,7 +503,7 @@ sub parse {
                                 "long.",$usernick);
                     }
                     elsif (time() == $lastreg) {
-                        privmsg("Wait 1 second and try again.",$usernick);                
+                        privmsg("Wait 1 second and try again.",$usernick);
                     }
                     else {
                         if ($opts{voiceonlogin}) {
@@ -723,7 +723,7 @@ sub parse {
                              "$arg[4] reaches next level in ".
                              duration($rps{$arg[4]}{next}).".");
                 }
-            }   
+            }
             elsif ($arg[3] eq "logout") {
                 if (defined($username)) {
                     penalize($username,"logout");
@@ -804,7 +804,7 @@ sub parse {
                 if (!defined($username)) {
                     privmsg("You are not logged in.", $usernick)
                 }
-                elsif (!defined($arg[4]) || (lc($arg[4]) ne "good" && 
+                elsif (!defined($arg[4]) || (lc($arg[4]) ne "good" &&
                        lc($arg[4]) ne "neutral" && lc($arg[4]) ne "evil")) {
                     privmsg("Try: ALIGN <good|neutral|evil>", $usernick);
                 }
@@ -1150,7 +1150,7 @@ sub rpcheck { # check levels, update database
     if (rand((12*86400)/$opts{self_clock}) < $onlinegood) { goodness(); }
 
     moveplayers();
-    
+
     # statements using $rpreport do not bother with scaling by the clock because
     # $rpreport is adjusted by the number of seconds since last rpcheck()
     if ($rpreport%120==0 && $opts{writequestfile}) { writequestfile(); }
@@ -1206,7 +1206,7 @@ sub rpcheck { # check levels, update database
     # log everyone out if the bot failed to connect. $lasttime = time() on
     # successful join to $opts{botchan}, initial value is 1). if fails to open
     # $opts{dbfile}, will not update $lasttime and so should have correct values
-    # on next rpcheck(). 
+    # on next rpcheck().
     if ($lasttime != 1) {
         my $curtime=time();
         for my $k (keys(%rps)) {
@@ -1563,7 +1563,7 @@ sub moveplayers {
                     if ($rps{$player}{y} > $opts{mapy}) { $rps{$player}{y}=0; }
                     if ($rps{$player}{x} < 0) { $rps{$player}{x}=$opts{mapx}; }
                     if ($rps{$player}{y} < 0) { $rps{$player}{y}=$opts{mapy}; }
-                    
+
                     if (exists($positions{$rps{$player}{x}}{$rps{$player}{y}}) &&
                         !$positions{$rps{$player}{x}}{$rps{$player}{y}}{battled}) {
                         if ($rps{$positions{$rps{$player}{x}}{$rps{$player}{y}}{user}}{isadmin} &&
@@ -1915,7 +1915,7 @@ sub quest {
         chanmsg(join(", ",(@{$quest{questers}})[0..2]).", and ".
                 "$quest{questers}->[3] have been chosen by the gods to ".
                 "$quest{text}. Quest to end in ".duration($quest{qtime}-time()).
-                ".");    
+                ".");
     }
     elsif ($quest{type} == 2) {
         chanmsg(join(", ",(@{$quest{questers}})[0..2]).", and ".
