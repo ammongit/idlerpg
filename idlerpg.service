@@ -5,8 +5,8 @@ After=network-online.target network.target
 
 [Service]
 Type=forking
-WorkDir=/path/to/idlerpg
 User=idlerpg
+WorkingDirectory=/path/to/idlerpg
 ExecStart=/usr/bin/perl --verbose --debug bot.pl
 Restart=always
 RestartSec=120
