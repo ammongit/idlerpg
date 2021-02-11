@@ -1,18 +1,19 @@
-C was bitten by a troll
+C was attacked by SCP-682
 C fell into a hole
 C bit their tongue
+C had to teach a new author the meaning of "no canon"
 C passed out
 C set themselves on fire
 C ate a poisonous fruit
-C died, temporarily..
+C blinked whilst cleaning SCP-173's cell
 C was caught in a terrible snowstorm
 C EXPLODED, somewhat..
 C got knifed in a dark alley
 C got stabbed by an angry ex-lover
-C got turned INSIDE OUT
+C ran afoul of a Karcist and got turned INSIDE OUT
 C ate a very disagreeable fruit, getting a terrible case of heartburn
-C met up with a mob hitman for not paying their bills
-C has fallen ill with the black plague
+C met up with a hitman for deciding not to pay MC&D
+C has fallen ill with the SCP-3862 plague
 C has fallen ill with a slight cough
 C was struck by lightning
 C was attacked by a rabid cow
@@ -28,7 +29,7 @@ C was sat on by a giant
 C was yelled at by a troll
 C ate a plate of discounted, day-old sushi
 C had their computer crash
-C pissed off the local IdleRPG administrator
+C pissed off an IdleRPG administrator
 C was audited by the IRS
 C ate some strange mushrooms
 C got harassed by an elf
@@ -44,10 +45,10 @@ G caught a unicorn
 G discovered a secret, underground passage
 G was taught to run quickly by a secret tribe of pygmies that know how to, among other things, run quickly
 G discovered caffeinated coffee
-G grew an extra hand
-G grew an extra leg
-G grew an extra heart
-G grew an extra head
+G was blessed by Ion and grew an extra hand
+G was blessed by Ion and grew an extra leg
+G was blessed by Ion and grew an extra heart
+G was blessed by Ion and grew an extra head
 G found a kitten
 G found a puppy
 G found a new animal companion
@@ -62,15 +63,15 @@ G tamed a wild dragon
 G tamed a wild squirrel
 G found a one-time-use spell of quickness
 G ate some strange mushrooms
-G bought a faster computer
-G bribed the local IdleRPG administrator
-G stopped using dial-up
+G found their computer was blessed by WAN
+G bribed an IdleRPG administrator
+G joined GAW
 G invented the wheel
 G gained a sixth sense
-G gained the power of telepathy
+G has been blessed by WAN
 G had their clothes laundered by a passing fairy
-G was kissed by an elf
-G was rejuvenated by drinking from a magic stream
+G was kissed by a citizen of Hy-Brasil
+G found their way out of the Place Where Trees Grow in a Disorderly Fashion
 G was bitten by a radioactive spider
 Q2 225 415 280 460 lay waste to the Towers of Ankh-Allor, wherein lies the terrible sorceror Croocq
 Q1 locate the centuries-lost tomes of the grim prophet Haplashak Mhadhu
@@ -88,4 +89,4 @@ Q2 35 40 325 270 assassinate the general, Ronald Ashur, of the invading army of 
 Q2 235 125 430 60 setup a trade route through the mountains to the neighboring land of Qwok and arrange correspondence with their leader, Cuincey-Love Vikk'l
 Q2 155 155 325 270 live among and learn the ancient magick of the tribe of pygmie people, the Jow Botzi
 Q2 70 125 170 100 kill the resurrected Jow Botzian zombies produced by a young wizard's wayward spell
-Q1 worship the sacred Cow until such time as she is satiated
+Q1 worship the sacred Crow until such time as he is satiated
